@@ -5,8 +5,8 @@ This application will shutdown after a specific number of minutes that the user 
 
 To use this application you will need Ruby and Shoes(a GUI framework for Ruby).
 
->Ruby: https://www.ruby-lang.org/en/
->Shoes: http://shoesrb.com/
+>   Ruby: https://www.ruby-lang.org/en/
+>   Shoes: http://shoesrb.com/
 
 To launch the application without being on the command line, you must create a .desktop link:
 
